@@ -5,7 +5,10 @@ GWAS has been instrumental in advancing our understanding of the genetic basis o
 
 
 RESULTS:
+1.Manhattan plot showing relative importance genes
 ![image](https://github.com/anithakp21/Explainable-GWAS-using-Deep-Learning/assets/144489823/a3a2d28e-d355-49ce-a0a6-6361f8edc7f7)
+
+2 Relative importance of SNPs
 ![image](https://github.com/anithakp21/Explainable-GWAS-using-Deep-Learning/assets/144489823/686e50e0-2353-4669-b98b-54e7b748abd5)
 
 
